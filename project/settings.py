@@ -34,7 +34,7 @@ CORS_ALLOWED_ORIGINS = [
     'https://abu.yoqutxonsayfullayev.uz',
     'http://abu.yoqutxonsayfullayev.uz',
     'https://www.abu.yoqutxonsayfullayev.uz',
-    'https://abduvorisportfolio.netlify.app/'
+    'https://abduvorisportfolio.netlify.app'
 
 ]
 
